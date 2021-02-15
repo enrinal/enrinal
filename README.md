@@ -14,10 +14,10 @@ Right now I'm working as a Software Engineer, Backend in [Warung Pintar](http://
 - 😌 &mdash; Find the best solitions regarding both time and quality.
 - 😎 &mdash; 2021: Contribute more to open source project. <br> ![github stats](https://github-readme-stats.vercel.app/api?username=enrinal&show_icons=true)
 - 📝 &mdash; Blogger, Check my Recent post on Medium! 
-    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@muhamadenrinal/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@muhamadenrinal/0" alt="Recent Article 0"></a>
-    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@muhamadenrinal/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@muhamadenrinal/2" alt="Recent Article 2"></a>
-    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@muhamadenrinal/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@muhamadenrinal/4" alt="Recent Article 4"></a>
-    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@muhamadenrinal/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@muhamadenrinal/5" alt="Recent Article 5"></a>
+    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@enrinaal/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@enrinaal/0" alt="Recent Article 0"></a>
+    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@enrinaal/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@enrinaal/2" alt="Recent Article 2"></a>
+    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@enrinaal/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@enrinaal/4" alt="Recent Article 4"></a>
+    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@enrinaal/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@enrinaal/5" alt="Recent Article 5"></a>
 
 
 ### 👯 I’m looking to collaborate on
