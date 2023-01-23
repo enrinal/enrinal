@@ -2,7 +2,7 @@
 
 # Enrinal Zulhimar &mdash; @enrinal
 
-Right now I'm working as a Software Engineer, Backend in [Sicepat Express](https://www.sicepat.com/). I’ve always loved build something and solving a complex problem with a simple approach. I love magic. Like they show in movies like Harry Potter. Wizards, they speak some spells and something amazing happens. I feel programming is very similar to magic. I write some code, and who doesn't understand code, it's no less than some magic spell for them. And something amazing happens when I run it. Writing Good Code is like beat Voldemort :) 
+Right now I'm working as a Software Engineer, Backend in [Tiket.com](https://www.tiket.com/). I’ve always loved build something and solving a complex problem with a simple approach. I love magic. Like they show in movies like Harry Potter. Wizards, they speak some spells and something amazing happens. I feel programming is very similar to magic. I write some code, and who doesn't understand code, it's no less than some magic spell for them. And something amazing happens when I run it. Writing Good Code is like beat Voldemort :) 
 <br><br>
 <img src="https://media.giphy.com/media/qPCln5TSOsdRS/giphy-downsized.gif"  width="300" />
 
