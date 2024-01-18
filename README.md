@@ -12,7 +12,7 @@ Right now I'm working as a Software Engineer, Backend in [Tiket.com](https://www
 - 🤔 &mdash; Passionate on Startup culture, with expertise in Backend Engineering, Microservices Architecture and Design, API Development and Go (Golang). <br> 
 - 🌱 &mdash; I'm a lifelong learner.
 - 😌 &mdash; Find the best solitions regarding both time and quality.
-- 😎 &mdash; 2021: Contribute more to open source project. <br> ![github stats](https://github-readme-stats.vercel.app/api?username=enrinal&show_icons=true)
+- 😎 &mdash; 2021: Contribute more to open source project. <br>
 - 📝 &mdash; Blogger, Check my Recent post on Medium! [enrinaal.medium.com](https://enrinaal.medium.com/)
 
 
